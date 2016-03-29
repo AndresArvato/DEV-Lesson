@@ -6,27 +6,25 @@
 
 <body> bgcolor='FFFF'>
 <?php
-  $wuerfel
+  	$wuerfel
   
-  $wuerfel = 10
+  	$wuerfel = 10
   
-  if ($wuerfel = 10) {
+  	if ($wuerfel = 10) {
 	$wuerfel = 'A';
-  } elseif ($wuerfel = 11) {
+  	} elseif ($wuerfel = 11) {
 	$wuerfel = 'B';
-  } elseif ($wuerfel = 12) {
+  	} elseif ($wuerfel = 12) {
 	$wuerfel = 'C';
-  } elseif ($wuerfel = 13) {
+  	} elseif ($wuerfel = 13) {
 	$wuerfel = 'D';
-  } elseif ($wuerfel = 14) {
+  	} elseif ($wuerfel = 14) {
 	$wuerfel = 'E';
-  } else ($wuerfel = 15) {
+  	} else ($wuerfel = 15) {
 	$wuerfel = 'F';
-  }
+  	}
 
- echo ($wuerfel);
-	
-	?>
-
+ 	echo ($wuerfel);
+?>
 </body>
 </html>
