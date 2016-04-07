@@ -13,8 +13,6 @@
 	
 # Umwandeln der Zahlen 10,11,12,13,14,15 in Buchstaben
 	
-
-
 # Array in String
 	$colorStr = implode ('', $color );
   	
@@ -22,7 +20,6 @@
 #	echo "Farbcode <br>";
 #	for ($zaehler=0; $zaehler < count($color); $zaehler++) {
 # 	echo $color[$zaehler]. "|"; }
-
 ?>
 <!doctype html> 
 <html>
@@ -35,4 +32,3 @@
 
 </body>
 </html>
-
