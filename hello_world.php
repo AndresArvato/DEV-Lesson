@@ -28,7 +28,9 @@
 </head>
 <body style = "background-color: <?php echo $colorStr;?>" >
 
-<h1><?php echo $colorStr;?></h1>
+<h1>
+<?php echo $colorStr;?>
+</h1>
 
 </body>
 </html>
